@@ -17,10 +17,9 @@ Repository ini berisi implementasi algoritma *Forward Chaining* dan *Backward Ch
 
 *Backward Chaining* adalah metode inferensi yang dimulai dari tujuan atau hipotesis dan bekerja mundur untuk menentukan apakah fakta-fakta yang ada mendukung tujuan tersebut dengan menerapkan aturan-aturan yang relevan.
 
-## 🚀 Cara Menggunakan
+## ▶️ Cara Menjalankan
 
-1. **Kloning Repository**
-
+### Dengan Python CLI
+1. Install dependencies:
    ```bash
-   git clone https://github.com/mrzack18/Forward-Chaining_-_Backward-Chaining.git
-   cd Forward-Chaining_-_Backward-Chaining
+   pip install experta
